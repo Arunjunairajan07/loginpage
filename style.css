@@ -1,0 +1,72 @@
+body{
+    background: url("/image/deer.webp");
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.side{
+    padding-top:20px ;
+    padding-left: 1800px;
+    background-color: rgba(0,0,0,.5);
+    height: 50px ;
+    font-size: 22px;
+
+}
+.side1{
+    padding-left: 190px;
+}
+.side2{
+    padding-left: 150px;
+}
+.side3{
+    padding-left: 100px;
+}
+.img{
+    width: 500px;
+    margin: 400px 250px 250px 1000px;
+    padding:30px 30px 30px;
+    background-color: rgba(0,0,0,.5);
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img h2{
+    color: white;
+    text-align: center;
+}
+.img input{
+    width: 450px;
+    font-size: 1.2em;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+input:focus{
+    background-color: cadetblue;
+}
+button{
+    width: 150px;
+    height:35px;
+    padding: 5px 10px 5px 10px;
+    border-radius:10px ;
+    font-size:1.2em ;
+    background-color:whitesmoke;
+
+}
+.but{
+    text-align: center;
+}
+button:hover{
+    color: red;
+}
+a:active{
+    color: deeppink;
+}
+.img1{
+    width: 40px;
+    height: 40px;
+    padding-left: 30px;
+}
+
